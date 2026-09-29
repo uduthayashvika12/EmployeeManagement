@@ -1,10 +1,10 @@
 package demo;
 
 public class Attendance {
-int totalWorkinDays;
-int presentDays;
-int absentDays;
-double attendencePercentage;
-int attendence;
-}
 
+    int totalWorkingDays;
+    int presentDays;
+    int absentDays;
+    int attendance;
+    double attendancePercentage;
+}
